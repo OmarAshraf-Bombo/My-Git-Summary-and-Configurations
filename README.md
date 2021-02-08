@@ -175,10 +175,14 @@ Type >> **git push origin branch_name** <br />
 - (.gitconfig) >> Git Configurations <br />
 - (.gitignore) >> Ignoring Files to be Added or Committed <br />
 - (.zshrc) >> Adding Branch Name to End of Line in Terminal <br />
+- (.bash_profile) >> Adding Branch Name to End of Line in Terminal <br />
 
 - Note >> If These Files are not created in the System By Default <br />
 - Type >> **touch ~/.gitconfig** <br />
 - Type >> **touch ~/. zshrc** <br />
+- Type >> **touch ~/.bash_profile** <br />
 - Type >> **touch project_path/.gitignore** <br />
+
+NOTE: Change the default shell to Bash by running the following command: **chsh -s /bin/bash**
 
 
